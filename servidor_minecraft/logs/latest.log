@@ -476,3 +476,7 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [28Dec2024 04:30:39.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fermin_isaias lost connection: Disconnected
 [28Dec2024 04:30:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias left the game
+[28Dec2024 04:41:13.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fermin_isaias[/100.87.10.3:59015] logged in with entity id 968 at (18.264075631961017, 73.0, 54.965331407768346)
+[28Dec2024 04:41:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias joined the game
+[28Dec2024 04:41:29.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fermin_isaias lost connection: Disconnected
+[28Dec2024 04:41:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias left the game
