@@ -55,3 +55,4 @@
 [08Jan2025 02:23:18.418] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Jan2025 02:29:26.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bf4974[id=<null>,name=fermin_isaias,properties={},legacy=false] (/100.87.10.3:56263) lost connection: Disconnected
 [08Jan2025 02:30:10.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@414c5d32[id=<null>,name=blackyt32,properties={},legacy=false] (/100.95.66.68:56654) lost connection: Disconnected
+[08Jan2025 02:48:57.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f732bdd[id=<null>,name=fermin_isaias,properties={},legacy=false] (/100.87.10.3:56657) lost connection: Disconnected
