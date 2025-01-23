@@ -46,3 +46,16 @@
 [23Jan2025 03:47:53.730] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6579 ms
 [23Jan2025 03:47:53.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.547s)! For help, type "help"
 [23Jan2025 03:47:53.755] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jan2025 03:57:32.795] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fermin_isaias[/100.87.10.3:61984] logged in with entity id 253 at (4.671763349766748, 72.0, 37.15907942445612)
+[23Jan2025 03:57:32.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias joined the game
+[23Jan2025 04:00:08.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fermin_isaias lost connection: Disconnected
+[23Jan2025 04:00:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias left the game
+[23Jan2025 04:05:10.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xknxqz[/100.85.32.79:61599] logged in with entity id 759 at (-4.5, 71.0, -1.5)
+[23Jan2025 04:05:10.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xknxqz joined the game
+[23Jan2025 04:05:17.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fermin_isaias[/100.87.10.3:62134] logged in with entity id 937 at (10.739668542273812, 71.0, 68.36978505206177)
+[23Jan2025 04:05:17.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias joined the game
+[23Jan2025 04:05:31.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xknxqz has made the advancement [Monster Hunter]
+[23Jan2025 04:06:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias was slain by xknxqz
+[23Jan2025 04:06:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xknxqz was slain by fermin_isaias
+[23Jan2025 04:06:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fermin_isaias was slain by xknxqz
+[23Jan2025 04:07:20.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xknxqz was slain by fermin_isaias

@@ -11,5 +11,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-23 03:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-23 03:57:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
